@@ -31,5 +31,5 @@ jobs:
         with:
           context: .
           file: ./Dockerfile
-          tags: 'memoryktw/stde-lab6:latest'
+          tags: "memoryktw/stde-lab6:latest"
           push: true
